@@ -1,1 +1,1 @@
-![Screenshot](https://github.com/tekiann/ShoopingList/blob/c04a2caf5f1ba708d7fa56d759d7868c722985ed/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/tekiann/ShoppingList/ShoppingList/Screenshot.png?token=GHSAT0AAAAAABU7XJFYF4GQ2E64YQUY25NEYUQBY5A)
